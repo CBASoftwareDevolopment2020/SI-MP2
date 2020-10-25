@@ -8,3 +8,4 @@
 | Michael Ejdal Lundsgaard | cph-ml510 |
 | Nikolaj Thorsen Nielsen  | cph-nn134 |
 
+![](https://raw.githubusercontent.com/CBASoftwareDevolopment2020/SI-MP2/main/mail.png)
